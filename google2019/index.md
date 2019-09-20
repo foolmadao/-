@@ -53,6 +53,8 @@ AMP主要由三个部分组成：
 
 在安卓开发环境Android Studio下添加TWA 组件等依赖就可以实现网页的包装。
 
+解决了AMP最大的痛点，不能生成应用证书
+
 TWA 结合 PWA，在未来就会是正式的 WebApp 雏形了。
 
 <img src="./twa.png" height="500em" />
@@ -63,3 +65,6 @@ TWA 结合 PWA，在未来就会是正式的 WebApp 雏形了。
 
 flutter推荐学习网站
 https://github.com/xitu/awesome-flutter
+
+## 小结
+Web开始融合其他领域，大前端的趋势明显
